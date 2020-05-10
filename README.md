@@ -9,5 +9,10 @@ hamster is so cute!
 >	> 익숙해지기가 많이힘들어 돌아와줘 ma baby 나 달라질게....
 
 * e sens
- * simon d
-  * HeyLip
+ + simon d
+  - HeyLip
+
+난 제대로 실감하지도 못했지
+	한번도 보지 못한 니 모습의 당황스러워서
+너와 후회로 가득해 시간 지날수록 더
+	지금도 누가 물어보면 멈칫하게되 
