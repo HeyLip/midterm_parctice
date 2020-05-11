@@ -5,11 +5,11 @@
 
 * __hamster species__:
 -------------------------------------
-	* _Syrian_
+	\* \_Syrian\_
 
-	* *Winter white*
+	\* \*Winter white\*
 
-	* _robe_
+	\* \_robe\_
 
-	* _campbells russi_ 
+	\* \_campbells russi\_ 
 
