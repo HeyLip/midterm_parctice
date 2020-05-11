@@ -3,13 +3,13 @@
 *hamster is so cute!*
 ------------------------
 
-## * __hamster species__
-----------------------------------------
-##### * _Syrian_
-##### * *Winter white*
-##### * _robe_
-##### * _campbells russi_ 
+* __hamster species__:
+-------------------------------------
+	* _Syrian_
 
-* A
-+ B
-- C
+	* *Winter white*
+
+	* _robe_
+
+	* _campbells russi_ 
+
